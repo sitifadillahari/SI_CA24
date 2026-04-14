@@ -52,7 +52,7 @@ class Kategori extends CI_Controller {
         $this->load->view('templates/header');
         $this->load->view('templates/sidebar');
         $this->load->view('templates/topbar');
-        $this->load->view('kategori/edit', $data); // ✅ kirim data
+        $this->load->view('kategori/edit', $data); 
         $this->load->view('templates/footer');
     }
 
