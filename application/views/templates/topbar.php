@@ -9,7 +9,7 @@ data-toggle="deopdown" aria-haspopup="true" aria-expanded="false">
 <span class="mr-2 d-none d-Ig-inline text-grey-600 small">
         Admin
     </span>
-    <img class="img-profile rounded-circle" src="<?=base_url('assets/img/undrew_profile_2.svg')?>" width="40">
+    <img class="img-profile rounded-circle" src="<?=base_url('assets/img/undraw_profile_2.svg')?>" width="40">
     </a>
     <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
         <a class="dropdown-item" href="#">
@@ -29,5 +29,3 @@ data-toggle="deopdown" aria-haspopup="true" aria-expanded="false">
     </li>
     </ul>
     </nav>
-
-//uts
